@@ -1,0 +1,47 @@
+
+You sent
+/* here is background image*/
+body{
+    background-image : url('images/walk.jpg');
+    background-size: cover;
+    }
+h2{
+    font-family: Sans-serif; 
+    font-size: 24px;     
+    font-style: normal; 
+    font-weight: bold; 
+    color: rgb(8, 8, 8);
+    text-align: center; 
+    text-decoration: underline
+   }
+   table{
+    font-family: verdana; 
+    color:rgb(3, 3, 3); 
+    font-size: 16px; 
+    font-style: normal;
+    font-weight: bold;
+    background: linear-gradient(to bottom, #b9f36c 0%, #ff99cc 100%);  
+    border-collapse: collapse; 
+    border: 4px solid #fc6666;
+    border: 4mm ridge rgba(241, 147, 194, 0.6);
+     
+   }
+   table.inner{
+    border: 10px
+   }
+   input[type=text], input[type=email], input[type=number]{
+    width: 50%;
+    padding: 6px 12px;
+    margin: 5px 0;
+    box-sizing: border-box;
+   }
+
+input[type=submit], input[type=reset]{
+ width: 15%;
+ padding: 8px 12px;
+ margin: 5px 0;
+ box-sizing: border-box;
+}
+
+
+
